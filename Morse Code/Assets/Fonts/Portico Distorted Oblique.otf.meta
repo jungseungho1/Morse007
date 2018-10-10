@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 89e0f8c81080042a3a2a3ca5d4f9d541
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Portico
+  fontNames:
+  - Portico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 789bdd20dc18643f8b4ff101a063576c, type: 3}
+  - {fileID: 12800000, guid: 494a0b800ca8e44c582f1f70ced82187, type: 3}
+  - {fileID: 12800000, guid: 706fcc908cfc04409aa9de7487424417, type: 3}
+  - {fileID: 12800000, guid: 518380b23526c41278432f83abc3afc4, type: 3}
+  - {fileID: 12800000, guid: 360bedc21e4804e90a1e445203d13854, type: 3}
+  - {fileID: 12800000, guid: 0804c9042185046a999428e52ccf6c21, type: 3}
+  - {fileID: 12800000, guid: 5f9402463f65a421fa8cb0aa439bcb76, type: 3}
+  - {fileID: 12800000, guid: 11021db739d1143b8bfa06f5b30cf7a3, type: 3}
+  - {fileID: 12800000, guid: 2a8f2038340c149aea3b66a2eaacd3b8, type: 3}
+  - {fileID: 12800000, guid: 1dcbcdd8d98fd4b60b873c73749e6ad9, type: 3}
+  - {fileID: 12800000, guid: 3e6e980c4e94c42f98e90f34675f3377, type: 3}
+  - {fileID: 12800000, guid: 3f71e23cdb7344086b09fe5c6b4306ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

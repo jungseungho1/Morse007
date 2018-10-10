@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: e4ce19e49f63743a78e6616e89f03091
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Portico
+  fontNames:
+  - Portico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 789bdd20dc18643f8b4ff101a063576c, type: 3}
+  - {fileID: 12800000, guid: 494a0b800ca8e44c582f1f70ced82187, type: 3}
+  - {fileID: 12800000, guid: 706fcc908cfc04409aa9de7487424417, type: 3}
+  - {fileID: 12800000, guid: bbf475e0e05e84460a8519b38337fab8, type: 3}
+  - {fileID: 12800000, guid: b07a0e01fc4cb4fc0a8b4fb47d2038fa, type: 3}
+  - {fileID: 12800000, guid: ceca53a15adcb48b58c61d2bb8db31dd, type: 3}
+  - {fileID: 12800000, guid: 518380b23526c41278432f83abc3afc4, type: 3}
+  - {fileID: 12800000, guid: d41ceab26957e4e7488565196e511918, type: 3}
+  - {fileID: 12800000, guid: 360bedc21e4804e90a1e445203d13854, type: 3}
+  - {fileID: 12800000, guid: a2a3e273e6ad24215b1754b804d924b8, type: 3}
+  - {fileID: 12800000, guid: c73a8304b03f84648a557b301ee14f3a, type: 3}
+  - {fileID: 12800000, guid: 0804c9042185046a999428e52ccf6c21, type: 3}
+  - {fileID: 12800000, guid: 5f9402463f65a421fa8cb0aa439bcb76, type: 3}
+  - {fileID: 12800000, guid: 11021db739d1143b8bfa06f5b30cf7a3, type: 3}
+  - {fileID: 12800000, guid: 2a8f2038340c149aea3b66a2eaacd3b8, type: 3}
+  - {fileID: 12800000, guid: 89e0f8c81080042a3a2a3ca5d4f9d541, type: 3}
+  - {fileID: 12800000, guid: 1dcbcdd8d98fd4b60b873c73749e6ad9, type: 3}
+  - {fileID: 12800000, guid: bdb1a4f8bd0a54eab9cc5d4ffe56aa8f, type: 3}
+  - {fileID: 12800000, guid: ad91c7daf070b486bae5ac83bd3ee880, type: 3}
+  - {fileID: 12800000, guid: cad4412b977c648038f522a80e1f61e9, type: 3}
+  - {fileID: 12800000, guid: 3e6e980c4e94c42f98e90f34675f3377, type: 3}
+  - {fileID: 12800000, guid: 3f71e23cdb7344086b09fe5c6b4306ea, type: 3}
+  - {fileID: 12800000, guid: c513aafe083ce43be9c9f4b653d33851, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

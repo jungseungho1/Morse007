@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f21b2360343b7465ea755f9b68cf2969
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ansley Display
+  fontNames:
+  - Ansley Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e0c56684a9184424a3d153ebdfcdc43, type: 3}
+  - {fileID: 12800000, guid: 9592bdc9d434f4896a3a45aaa62ccc3b, type: 3}
+  - {fileID: 12800000, guid: dd972bea090f3448eb318f86665deefa, type: 3}
+  - {fileID: 12800000, guid: 4a5c141b0e45c4df8bc08535a4128971, type: 3}
+  - {fileID: 12800000, guid: 62a3187f3a11749fbb1606f42b121a50, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

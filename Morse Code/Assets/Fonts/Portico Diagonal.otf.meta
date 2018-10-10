@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2a8f2038340c149aea3b66a2eaacd3b8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Portico
+  fontNames:
+  - Portico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0804c9042185046a999428e52ccf6c21, type: 3}
+  - {fileID: 12800000, guid: 11021db739d1143b8bfa06f5b30cf7a3, type: 3}
+  - {fileID: 12800000, guid: 1dcbcdd8d98fd4b60b873c73749e6ad9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
